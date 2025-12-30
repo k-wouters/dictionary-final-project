@@ -1,6 +1,6 @@
 <h1 id="cmsc335finalproject">Dictionary App Final Prroject</h1>
 <p><strong>Contributors:</strong> Katy Wouters (katywou), Ethan Zhang (ezhang30umd)</p>
-<p><strong>App Description:</strong> Allow users to find definitions of words and store/retrieve the results. Initally created for a final project for CMSC335 at University of Maryland</p>
+<p><strong>App Description:</strong> Allow users to find definitions of words and store/retrieve the results. Initally created for a final project for CMSC335 at University of Maryland.</p>
 <p><strong>Github:</strong> <a href="https://github.com/ezhang30umd/DictionaryApp335Final">https://github.com/ezhang30umd/DictionaryApp335Final</a></p>
 <p><strong>YouTube Video Link:</strong> <a href="https://youtu.be/UzDX5OKh52s">https://youtu.be/UzDX5OKh52s</a></p>
 <p><strong>APIs:</strong> Dictionary <a href="https://dictionaryapi.dev/">https://dictionaryapi.dev/</a></p>
