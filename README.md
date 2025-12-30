@@ -1,4 +1,4 @@
-<h1 id="cmsc335finalproject">Dictionary Website Final Prroject</h1>
+<h1 id="cmsc335finalproject">Dictionary Website Final Project</h1>
 <p><strong>Contributors:</strong> Katy Wouters (katywou), Ethan Zhang (ezhang30umd)</p>
 <p><strong>Website Description:</strong> Allow users to find definitions of words and store/retrieve the results. Initally created for a final project for CMSC335 at University of Maryland.</p>
 <p><strong>Github:</strong> <a href="https://github.com/ezhang30umd/DictionaryApp335Final">https://github.com/ezhang30umd/DictionaryApp335Final</a></p>
